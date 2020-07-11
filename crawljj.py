@@ -31,7 +31,7 @@ for i in bloglinklist:
     link=i.get_attribute('href')
     filename=str(k)+'.txt'
     k+=1
-    download_naver_blog.run(link, filename)
+    download_naver_blog.run(link, filename) #download_naver_blog 안 run 이라는 함수를 사용
 
 
 
