@@ -1,0 +1,10 @@
+NNG
+NNP
+NNB
+VV
+VA
+MM
+MAG
+IC
+XR
+SL
