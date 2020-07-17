@@ -16,7 +16,7 @@ pos_table.txt 분석대상 품사를 등록
 랜덤포레스트,  
 나이브베이즈 모델 작동 확인됨
 
-1. 전처리 모듈화: 모델 실험하기 쉽게 modules, module_preprocessing 제작
-1-1. 제품군별로 하나의 df로 합치기: modules의 append 함수
-1-2. 제품군별로 인코딩까지 끝내 matrix로 저장하기: module_preprocessing의 preprocessing 함수
-1-3. 인코딩 과정에서 만들어진 tfid 저장하기
+1. 전처리 모듈화: 모델 실험하기 쉽게 modules, module_preprocessing 제작  
+1-1. 제품군별로 하나의 df로 합치기: modules의 append 함수  
+1-2. 제품군별로 인코딩까지 끝내 matrix로 저장하기: module_preprocessing의 preprocessing 함수  
+1-3. 인코딩 과정에서 만들어진 tfid 저장하기  
